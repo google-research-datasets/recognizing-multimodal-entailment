@@ -9,7 +9,6 @@ dataset, and encourages future research in the topic.
 For more information, https://multimodal-entailment.github.io/
 
 \
-\
 
 ![Example of Multimodal Entailment](https://github.com/google-research-datasets/recognizing-multimodal-entailment/blob/main/multimodal_entailment.png?raw=true)
 
